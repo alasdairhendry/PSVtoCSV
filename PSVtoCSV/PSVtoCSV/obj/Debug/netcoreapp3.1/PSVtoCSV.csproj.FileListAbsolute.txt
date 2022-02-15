@@ -1,0 +1,12 @@
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/bin/Debug/netcoreapp3.1/PSVtoCSV.deps.json
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/bin/Debug/netcoreapp3.1/PSVtoCSV.runtimeconfig.json
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/bin/Debug/netcoreapp3.1/PSVtoCSV.runtimeconfig.dev.json
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/bin/Debug/netcoreapp3.1/PSVtoCSV.dll
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/bin/Debug/netcoreapp3.1/PSVtoCSV.pdb
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/obj/Debug/netcoreapp3.1/PSVtoCSV.csprojAssemblyReference.cache
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/obj/Debug/netcoreapp3.1/PSVtoCSV.AssemblyInfoInputs.cache
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/obj/Debug/netcoreapp3.1/PSVtoCSV.AssemblyInfo.cs
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/obj/Debug/netcoreapp3.1/PSVtoCSV.csproj.CoreCompileInputs.cache
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/obj/Debug/netcoreapp3.1/PSVtoCSV.dll
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/obj/Debug/netcoreapp3.1/PSVtoCSV.pdb
+/Users/alasdairhendry/Documents/Projects/PSVtoCSV/PSVtoCSV/obj/Debug/netcoreapp3.1/PSVtoCSV.genruntimeconfig.cache
